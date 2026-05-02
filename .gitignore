@@ -1,0 +1,19 @@
+# Compiled executable
+*.exe
+*.out
+
+# Object files
+*.o
+
+# Debugger files
+*.dSYM/
+*.su
+*.idb
+*.dbg
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
